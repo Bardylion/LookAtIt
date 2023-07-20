@@ -21,9 +21,3 @@ LookAtIt
 ![image](https://github.com/Bardylion/test/assets/140003063/9367ca81-9cbb-4852-b044-d2349577aafe)
 Также реализована функция поделиться постом
 ![image](https://github.com/Bardylion/test/assets/140003063/a2f4967d-63c5-4c01-af81-574db73140a1)
-
-
-
-
-
-
